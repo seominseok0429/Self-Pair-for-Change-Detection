@@ -22,7 +22,9 @@ python tools/train.py configs/changer/changer_ex_r18_512x512_40k_levircd.py --wo
 
 ## Results
 
-TODO
+| Method    | Backbone | Dataset | Param (M)  | MACs (G)  | Precision |  Recall | F1 | config                                                                                                                                 | 
+| --------- | -------- | --------- | ------: | -------: | -------------- | ----: | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | 
+| Segformer | MIT-B0   | 1024x1024 |  160000 |     3.64 | 4.74           | 76.54 | 78.22         | 
 
 ## Citation
 
