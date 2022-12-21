@@ -1,6 +1,6 @@
 # Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery
 <div align="center">
-  <img src="resources/opencd-logo.png" width="600"/>
+  <img src="resources/self-pair.png" width="800"/>
 </div>
 
 
