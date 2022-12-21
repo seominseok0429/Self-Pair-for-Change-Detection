@@ -24,7 +24,8 @@ python tools/train.py configs/changer/changer_ex_r18_512x512_40k_levircd.py --wo
 
 | Method    | Backbone | Dataset | Param (M)  | MACs (G)  | Precision |  Recall | F1 | config                                                                                                                                 | 
 | --------- | -------- | --------- | ------: | -------: | -------------- | ----: | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- | 
-| Changer (ChangerEx) | ResNet18   | LEVIR-CD |  11.39 |     23.71 | 92.24           | 91.09 |  91.66        |  configs/changer/changer_ex_r18_512x512_40k_levircd.py
+| Changer (ChangerEx) | ResNet18   | LEVIR-CD |  11.39 |     23.71 | 92.24           | 91.09 |  91.66        |  changer_ex_r18_512x512_40k_levircd.py
+| Changer + Self-pair (ChangerEx) | ResNet18   | LEVIR-CD |  11.39 |     23.71 | TODO           | TODO |  TODO        |  TODO
 
 ## Citation
 
