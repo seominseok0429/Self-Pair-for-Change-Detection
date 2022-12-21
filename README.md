@@ -40,7 +40,10 @@ If you find this project useful in your research, please consider cite:
 ```
 ## Thank to
 
-This code is heavily based on open-cd and mmsegmentation.
+This code is heavily based on [open-cd](https://github.com/likyoo/open-cd).
 
 We thank the authors of that code.
+
+
+
 
