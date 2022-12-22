@@ -25,11 +25,14 @@ pip install -r requirements.txt
 
 |./data/
 |------/source
-|-------------/train
-|-------------/val
+|-------------/train/A
+|-------------/val/A
 |------/target
-|-------------/train
-|-------------/val
+|-------------/train/B
+|-------------/val/B
+
+python train.py --name="vsait"
+python test.py --name="vsait_adapt" --checkpoint="./checkpoints/vsait/version_0/checkpoints/epoch={i}-step={j}.ckpt"
 ```
 
 </details>
