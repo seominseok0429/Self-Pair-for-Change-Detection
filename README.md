@@ -40,6 +40,23 @@ If you find this project useful in your research, please consider cite:
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
+
+@article{fang2022changer,
+  title={Changer: Feature Interaction is What You Need for Change Detection}, 
+  author={Sheng Fang and Kaiyu Li and Zhe Li},
+  year={2022},
+  eprint={2209.08290},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
+
+
+@misc{opencd2022,
+    title={{Open-CD}: An open source change detection toolbox},
+    author={Open-CD Contributors},
+    howpublished = {\url{https://github.com/likyoo/open-cd}},
+    year={2022}
+}
 ```
 ## Thank to
 
