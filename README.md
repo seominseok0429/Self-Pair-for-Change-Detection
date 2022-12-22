@@ -1,4 +1,4 @@
-# Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery
+# Self-Pair: Synthesizing Changes from Single Source for Object Change Detection in Remote Sensing Imagery ([WACV2023](https://arxiv.org/abs/2212.10236))
 <div align="center">
   <img src="resources/self-pair.png" width="600"/>
 </div>
