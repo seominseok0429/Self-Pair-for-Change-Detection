@@ -7,7 +7,18 @@
 
 - 2022.12.22 : Update [VSAIT](https://github.com/facebookresearch/vsait) style transfer method 
 
-## Install
+## Install & Train (VSAIT)
+
+<details>
+<summary>Sample</summary>
+<div align="center">
+  <img src="resources/vsait_style.png" width="800"/>
+</div>
+
+
+</details>
+
+## Install (Open-CD)
 
 ```
 pip install -U openmim
