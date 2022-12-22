@@ -7,7 +7,7 @@
 
 - 2022.12.22 : Update [VSAIT](https://github.com/facebookresearch/vsait) style transfer method 
 
-## Install & Train (VSAIT)
+## Install & Train (VSAIT-style transfer)
 
 <details>
 <summary>Sample</summary>
