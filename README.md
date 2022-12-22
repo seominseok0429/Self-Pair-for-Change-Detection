@@ -3,6 +3,9 @@
   <img src="resources/self-pair.png" width="600"/>
 </div>
 
+## Update Note
+
+- 2022.12.22 : Update [VSAIT](https://github.com/facebookresearch/vsait) style transfer method 
 
 ## Install
 
