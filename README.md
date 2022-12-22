@@ -14,7 +14,23 @@
 <div align="center">
   <img src="resources/vsait_style.png" width="800"/>
 </div>
+</details>
 
+<details>
+<summary>prepare</summary>
+
+```
+cd vsait
+pip install -r requirements.txt
+
+|./data/
+|------/source
+|-------------/train
+|-------------/val
+|------/target
+|-------------/train
+|-------------/val
+```
 
 </details>
 
