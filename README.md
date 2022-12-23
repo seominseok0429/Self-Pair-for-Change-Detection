@@ -6,6 +6,7 @@
 ## Update Note
 
 - 2022.12.22 : Update [VSAIT](https://github.com/facebookresearch/vsait) style transfer method 
+- This repository will be completed on the date of the WACV 2023 presentation.
 
 ## Install & Train (VSAIT-style transfer)
 
